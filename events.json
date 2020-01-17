@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "evenname": "Idea Presentation",
+    "date": "2020-02-15",
+    "duration": "2 hours",
+    "team": "3 members",
+    "rules": "Rules UG:\n\nIdea Presentation is an event in which participants will represent their innovative ideas that can represent Deep Technologies. Their ideas will be an amalgam of their thoughts, creativity, imagination power, coding, implementation and presentation. Further more it will be an attempt to provide a solution to a real life problem. \nRules of the event:\n\nStudents can present their idea through the model with posters.\nIf participants use any hardware kit in their idea, then they must bring their hardware kit and laptop at time of presentation.\nStudents need to make posters to show their idea details.\nPoster should be of A2 Size.\nPoster must contain idea definition details, components details, applications of their idea.\nTeam size: 3 participants.\nEach member of the team needs to register for participating.\nThe Judges decision would be considered as final.\n\nFor further information about UG - Idea Presentation contact:\nProf. Jyoti Dubey\t09898537644\nProf. Poonam Dang\t09974360794\nProf. Garima Mishra\t07228849191\nProf. Ankita Pimputkar\n\nRules PG:\n\nIdea Presentation is an event in which participants will represent their innovative ideas through Chatbots. Their ideas will be an amalgam of their thoughts, creativity, imagination power, coding, implementation and presentation. Further more it will be an attempt to provide a solution to a real life problem. \nRules of the event:\n\nThe participants are supposed to bring fully developed Chatbot using any technology of their choice.\nThe chatbot should clearly reflect the solution to the stated problem as defined by the participants.\nParticpants can choose any domain areas like finance, education, healthcare, management etc for implementing chatbots.\nThe Chatbot can be built using any language/technology.\nParticpants have to bring working Chatbot along with the source code in their laptop.\nThe participants will be given space to exhibit the working model during the event.\nThe judges may ask for runtime changes in the source code of the Chatbot.\nTeam size: Max 3 participants.\nThe duration of the event will be of 2 hrs .\nEach member of the team need to be register for participating.\nThe Judges decision would be considered as final.\n\nFor further information about UG - Idea Presentation contact:\nProf. Pooja Ajwani\t09558670306\nDr. Zakiya Malek\t09427333141",
+    "image": "https://github.com/rv98/cybershadz/raw/master/ideapresentation.jpg",
+    "btns": "2",
+    "ug": "https://goo.gl/forms/GntW08CwRc1ZfEaO2",
+    "pg": "https://goo.gl/forms/Fs3VKOJQVwMybnTr1"
+  },
+  {
+    "id": "2",
+    "evenname": "Marathon Programming",
+    "date": "2020-02-14",
+    "duration": "3 hours",
+    "team": "2 members",
+    "rules":"Rules PG:\n\nA fun filled brain exercise where-in focusing on the fundamentals, programmers can publicly showcase and enhance their technical skill. The marathon is targeted to improve the programming and competitive programming skills of the students.Contestants would be given a clearly defined programming puzzle, the solution of which should be offered by the contestants using the core concepts of C++ like object orientation and GUI in a given time frame.\nRules of the event :\n\n1. Team Size: Max 2 persons.\n2. The problem definition will be given on the spot.\n3. Technology: C++\n4.Editor:Scite or Sublime or Eclipse\nDuration: 3 Hrs.\n\n\nFor further information about UG - Marathon Programming contact:\nProf. Nirav Suthar\t9723599635\nProf. Chitresha Mehta\t8320578712\nProf. Neha Vasani\n\n\nRules PG:A fun filled brain exercise where-in focusing on the fundamentals, programmers can publicly showcase and enhance their technical skill. The marathon is targeted to improve the programming and competitive programming skills of the students.\nContestants would be given a clearly defined programming puzzle, the solution of which should be offered by the contestants using the core concepts of Java like object orientation and GUI in a given time frame. Contestants may take the help of API and Internet for the same.\nTeam Size: Max 2 persons.\nProblem Definition: On the spot.\nTechnology: Core JavaEditor: Scite/ Sublime/ Eclipse Duration: 5 Hrs.For further information about UG - Marathon Programming contact:Prof. Rupal Shah\t09825898398Prof. Snehal Shukla\t09429575889",
+    "image": "https://github.com/rv98/cybershadz/raw/master/javamarathon.jpg",
+    "btns": "2",
+    "ug": "https://goo.gl/forms/UllrQSpMNeryQK042",
+    "pg": "https://goo.gl/forms/UllrQSpMNeryQK042"
+  },
+  {
+    "id": "3",
+    "evenname": "Relay Programming",
+    "date": "2020-01-15",
+    "duration": "75 minutes",
+    "team": "3 members",
+    "rules": "Rules UG:\n\nRelay Programming is a team event wherein the team coordination and individuals programming skills will be tested. Only one member will be allowed to code or conceptualize at a given moment of time. \nRules of the event:\n\nThe compiler provided will be C++.\nA problem will be given to the team which should be visible to only the first participant of the team.\nThe first participant will start coding based on the problem given to them.\nAfter 40 minutes a buzzer will be blown and the 1st team member will be replaced by the 2nd member of the team.\nThe 2nd member will continue with the code written by the 1st member of the team.\nAfter 20 minutes the buzzer will be blown again and the 3rd member will replace the 2nd member of the team.\nAnd the 3rd member will get only 15 minutes to complete the code and the final buzzer will be blown marking the end of the round.\nThe team with the best time management with the most accurate output will win.\nThe Judges decision would be final.\n\nFor further information about UG - Relay Programming contact:Prof. Vidhi Thakkar\t099255355117\nProf. Kinjal Patel\nDr. Purna Tanna",
+    "image": "https://github.com/rv98/cybershadz/raw/master/relayprogramming.jpg",
+    "btns": "1",
+    "ug": "https://goo.gl/forms/mzIAmQxF3xOqH6mg2",
+    "pg": "0"
+  },
+  {
+    "id": "4",
+    "evenname": "iKnowDB - Database Treasure Hunt",
+    "date": "2019-01-15",
+    "duration": "1 hours",
+    "team": "2 members",
+    "rules": "Rules UG:\n\nThere will be 2 rounds.\nElimination Round:Puzzle Round on Computer Database.Time Limit for Elimination Round: 20 minutes.\nFinal Round:The team has to find Hidden Treasure on basis of the hint of first round.Time Limit for Final round: 30 minutes.\nTeam who qualified for the final round, should follow the rule to find the hidden treasure.\nThe rules will be declared at the time of event.\n\nFor further information about UG - Database Treasure Hunt contact:\nProf. Shaily Thaker\t09427060118\nProf. Bharti Shah\t09662023074\nProf. Riddhi Kundal\t09530081471\n\nRules PG:\n\nTime Duration will be of 1 hour.\nTotal team size will be of 2 participants.\nMySQL Terminal will be given.\nPrerequisite knowledge of MySQL database is needed.\nThe event will consist of 2 rounds.\nRules will be declared on the spot.\n\nFor further information about PG - Database Treasure Hunt contact:\nProf. Prerna Agarwal\t09979149112\nProf. Jenny Kasudiya\t09825191506\nProf. Darshita Kalyani\t09427430660",
+    "image": "https://github.com/rv98/cybershadz/raw/master/dbtreasurehunt.jpg",
+    "btns": "2",
+    "ug": "https://goo.gl/forms/n4jlN4keq4mB9Ohr1",
+    "pg": "https://goo.gl/forms/PFJou5WPf4jzmdqj2"
+  },
+  {
+    "id": "5",
+    "evenname": "Python Charmer - Debugging Code",
+    "date": "2020-02-15",
+    "duration": "1 hour",
+    "team": "2 members",
+    "rules": "The team must comprise of exactly TWO members\nThe duration of the event will be a maximum of 60 minutes\nAny IDE usage will NOT be permitted\nThe event will comprise of TWO levels\n[Level 1: Debugging related to syntax : A maximum of 20 minutes]\n[Level 2: Logical level debugging : A maximum of 40 minutes]\nParticipants clearing level 1 will be allowed to participate in level 2\nThe debugging program may consist of all concepts from core Python\nInternet usage will be strictly prohibited\n\nFor further information about PG - Python Charmer contact:\nProf. Vishal Narvani\t09998340021\nProf. Maxwell Christian\t09879107371",
+    "image": "https://github.com/rv98/cybershadz/raw/master/RPA.jpg",
+    "btns": "1",
+    "ug": "0",
+    "pg": "https://goo.gl/forms/9jS0EueeeYKEERJi1"
+  },
+  {
+    "id": "6",
+    "evenname": "IT Quiz",
+    "date": "2020-02-15",
+    "duration": "90 minutes",
+    "team": "2 members",
+    "rules": "Rules UG:\n\nIT quiz is a mind sport team event where the individual as well as team will be tested for their knowledge in the area of IT.\nRules of the event:\nThere will be 2 rounds Elimination Round:\nMultiple Choice, True / False questions.\nTime Limit for Elimination Round: 30 minutes\nParticipants clearing Elimination Round will be permitted in Final Round.\nThree teams will be considered for Final Round.\nBoth the rounds will be based on technical questions related to computer science/new technologies.\nThe participants will not be allowed to use mobile or other electronic instruments.\n\nFor further information about UG - IT QUIZ contact:\nProf. Hemali Moradiya\t09904086377\nProf. Deepti Ameta\t09925535511\nProf. Anjali Bobra\t08000251860\nProf. Nirja Shah\t09408644540\n\nRules PG:\n\nT quiz is a mind sport team event where the individual as well as team will be tested for their knowledge in the area of IT.\nRules of the event:\nA team will consist of two participants representing same college and pursuing master degree.\nAny number of teams can register from same college.\nThe quiz will be conducted in two Phases, the first phase will be the Elimination Round and the another will be the Final Quiz.\nThe first phase Elimination Round is of 30 minutes which consist objective questions and will be conducted on the same day of event.\nTop four scoring teams of the elimination round will move forward to the final round.\nFinal round will be of 60 minutes.\nThe detailing of the final round of quiz will be given during the quiz itself.\nThe decision of the quiz master will be final.\nFor further information about PG - IT QUIZ contact:\nDr. Krupa Mehta\t09427754148\nProf. Arpit Jain\t09924405931\nProf. Rachana chaudhari\t07698341627\nProf. Dinesh Kalal\t09636484074",
+    "image": "https://github.com/rv98/cybershadz/raw/master/itquiz.jpg",
+    "btns": "2",
+    "ug": "https://goo.gl/forms/AoDm4uM6RYSDvBuE2",
+    "pg": "https://goo.gl/forms/XSVW5sidPuQFmLdF3"
+  },
+  {
+    "id": "7",
+    "evenname": "Logo Designing",
+    "date": "2020-02-15",
+    "duration": "1 hour",
+    "team": "2 members",
+    "rules": "Rules UG:\n\nLogo Design is an event where the participants artistic and creative mind will be tested. It will also test how they can use tools to convert the thought into a design. The participants will have to design a logo on the theme given to them.\nRules of the event:\nThe logo can be made in Scribus/Pinta software.\nTheme of the logo design will be given on the spot.\nThe logo should depict theme properly.\nExisting logo design can not be used.\n\nFor further information about UG - Logo Design contact:\nProf. Jainin Vakil\t09408644540\nProf. Rinkal Shah\t09173073936\nProf. Heta Dasondi\t08758865557",
+    "image": "https://github.com/rv98/cybershadz/raw/master/flex.jpg",
+    "btns": "1",
+    "ug": "https://goo.gl/forms/Cbly6rzTHAG0FEcf2",
+    "pg": "0"
+  }
+]
